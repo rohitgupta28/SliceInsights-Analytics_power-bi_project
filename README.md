@@ -16,35 +16,31 @@ It focuses on slicing and analyzing data to uncover trends, KPIs, and performanc
 
 ##  Project Files
 - `SliceInsights_Analytics.pbix` – Main Power BI dashboard file
-- `Dataset/` – Source datasets used in the analysis
+- `pizza_sales.csv` – Source datasets used in the analysis
 - `Screenshots/` – Dashboard previews
 
 ---
 
 ##  Dashboard Preview
-![Dashboard Screenshot](Screenshots/dashboard_preview.png)
+<img width="1918" height="970" alt="Dashboard" src="https://github.com/user-attachments/assets/0cc549de-e896-48e5-8ed9-033f869a83a0" />
+<img width="1918" height="967" alt="best   worst seller" src="https://github.com/user-attachments/assets/39057cd6-42cd-4145-a356-dea750c95d0f" />
+
 
 ---
 
 ##  How to Use
 1. Download the `.pbix` file from this repository.
 2. Open in **Power BI Desktop** (latest version recommended).
-3. Connect or refresh data if using live sources.
-4. Explore the interactive dashboards.
+3. Explore the interactive dashboards.
 
 ---
 
 ##  Requirements
 - Power BI Desktop (latest version)
-- Access to the dataset used in the project (if live connection)
+- Excel for Dataset
 
 ---
 
-##  Author
-**Rohit Gupta**  
-Data Analyst | Power BI Enthusiast
+##  Created By
+Rohit Gupta
 
----
-
-##  License
-This project is free to use and modify it.
